@@ -1,2 +1,2 @@
 
-print("Jeremiah Simmons")
+print("Jeremiah J Simmons")
